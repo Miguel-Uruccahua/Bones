@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CadaDeDatos\bin\Debug\CadaDeDatos.dll
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CadaDeDatos\bin\Debug\CadaDeDatos.pdb
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CadaDeDatos\obj\Debug\CadaDeDatos.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CadaDeDatos\obj\Debug\CadaDeDatos.dll
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CadaDeDatos\obj\Debug\CadaDeDatos.pdb
+E:\Ingeniera de Software\SistemaFarmacia\CadaDeDatos\bin\Debug\CadaDeDatos.dll
+E:\Ingeniera de Software\SistemaFarmacia\CadaDeDatos\bin\Debug\CadaDeDatos.pdb
+E:\Ingeniera de Software\SistemaFarmacia\CadaDeDatos\obj\Debug\CadaDeDatos.csprojResolveAssemblyReference.cache
+E:\Ingeniera de Software\SistemaFarmacia\CadaDeDatos\obj\Debug\CadaDeDatos.dll
+E:\Ingeniera de Software\SistemaFarmacia\CadaDeDatos\obj\Debug\CadaDeDatos.pdb
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CadaDeDatos\bin\Debug\CadaDeDatos.dll
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CadaDeDatos\bin\Debug\CadaDeDatos.pdb
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CadaDeDatos\obj\Debug\CadaDeDatos.csproj.CoreCompileInputs.cache
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CadaDeDatos\obj\Debug\CadaDeDatos.dll
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CadaDeDatos\obj\Debug\CadaDeDatos.pdb
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CadaDeDatos\obj\Debug\CadaDeDatos.csprojAssemblyReference.cache

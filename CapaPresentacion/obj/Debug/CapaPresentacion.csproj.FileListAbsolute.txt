@@ -1,0 +1,117 @@
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\bin\Debug\CapaLogica.dll
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\bin\Debug\CadaDeDatos.dll
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\bin\Debug\CapaLogica.pdb
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\bin\Debug\CadaDeDatos.pdb
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion2.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion2.Form2.resources
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion2.MDIParent1.resources
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Producto.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.FormProducto.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Categoria.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Proveedor.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Boleta.resources
+C:\Users\User\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Empleado.resources
+C:\Users\User\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.FormEmpleado.resources
+C:\Users\User\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+C:\Users\User\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.FormMDI.resources
+C:\Users\User\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+C:\Users\User\documents\visual studio 2015\Projects\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Todas.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\bin\Debug\CapaLogica.dll
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\bin\Debug\CadaDeDatos.dll
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\bin\Debug\CapaLogica.pdb
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\bin\Debug\CadaDeDatos.pdb
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Boleta.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Categoria.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Empleado.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion2.Form1.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion2.Form2.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.FormEmpleado.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.FormMDI.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.FormProducto.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion2.MDIParent1.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Producto.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Proveedor.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Todas.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\bin\Debug\CapaPresentacion.exe.manifest
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\bin\Debug\CapaPresentacion.application
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.exe.manifest
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.application
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+E:\Ingeniera de Software\SistemaFarmacia\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\bin\Debug\CapaPresentacion.exe.manifest
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\bin\Debug\CapaPresentacion.application
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\bin\Debug\CapaLogica.dll
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\bin\Debug\CadaDeDatos.dll
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\bin\Debug\CapaLogica.pdb
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\bin\Debug\CadaDeDatos.pdb
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.Boleta.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.Categoria.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.Empleado.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion2.Form1.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion2.Form2.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.FormEmpleado.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.FormMDI.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.FormProducto.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion2.MDIParent1.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.Producto.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.Proveedor.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.Todas.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.exe.manifest
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.application
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\Ingeniera de Software\CORRECION\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Boleta.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Categoria.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Empleado.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion2.Form1.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion2.Form2.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FormEmpleado.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FormMDI.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FormProducto.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion2.MDIParent1.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Producto.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Proveedor.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Todas.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Usuario.resources
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\bin\Debug\CapaLogica.dll
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\bin\Debug\CadaDeDatos.dll
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\bin\Debug\CapaLogica.pdb
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\bin\Debug\CadaDeDatos.pdb
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete

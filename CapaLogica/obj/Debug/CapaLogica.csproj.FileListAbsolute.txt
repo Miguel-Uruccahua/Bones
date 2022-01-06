@@ -1,0 +1,31 @@
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaLogica\bin\Debug\CapaLogica.dll
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaLogica\bin\Debug\CapaLogica.pdb
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaLogica\bin\Debug\CadaDeDatos.dll
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaLogica\bin\Debug\CadaDeDatos.pdb
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaLogica\obj\Debug\CapaLogica.dll
+c:\users\user\documents\visual studio 2015\Projects\SistemaFarmacia\CapaLogica\obj\Debug\CapaLogica.pdb
+E:\Ingeniera de Software\SistemaFarmacia\CapaLogica\bin\Debug\CapaLogica.dll
+E:\Ingeniera de Software\SistemaFarmacia\CapaLogica\bin\Debug\CapaLogica.pdb
+E:\Ingeniera de Software\SistemaFarmacia\CapaLogica\bin\Debug\CadaDeDatos.dll
+E:\Ingeniera de Software\SistemaFarmacia\CapaLogica\bin\Debug\CadaDeDatos.pdb
+E:\Ingeniera de Software\SistemaFarmacia\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+E:\Ingeniera de Software\SistemaFarmacia\CapaLogica\obj\Debug\CapaLogica.dll
+E:\Ingeniera de Software\SistemaFarmacia\CapaLogica\obj\Debug\CapaLogica.pdb
+E:\Ingeniera de Software\CORRECION\CapaLogica\bin\Debug\CapaLogica.dll
+E:\Ingeniera de Software\CORRECION\CapaLogica\bin\Debug\CapaLogica.pdb
+E:\Ingeniera de Software\CORRECION\CapaLogica\bin\Debug\CadaDeDatos.dll
+E:\Ingeniera de Software\CORRECION\CapaLogica\bin\Debug\CadaDeDatos.pdb
+E:\Ingeniera de Software\CORRECION\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+E:\Ingeniera de Software\CORRECION\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+E:\Ingeniera de Software\CORRECION\CapaLogica\obj\Debug\CapaLogica.dll
+E:\Ingeniera de Software\CORRECION\CapaLogica\obj\Debug\CapaLogica.pdb
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaLogica\bin\Debug\CapaLogica.dll
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaLogica\bin\Debug\CapaLogica.pdb
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaLogica\bin\Debug\CadaDeDatos.dll
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaLogica\bin\Debug\CadaDeDatos.pdb
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaLogica\obj\Debug\CapaLogica.dll
+F:\Semestre4\FinalIngenieriaDeSoftware\SistemaFinal\CapaLogica\obj\Debug\CapaLogica.pdb
